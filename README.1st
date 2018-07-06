@@ -1,0 +1,43 @@
+This code is based on ResortMUD 4.0 which is derived from SMAUG 1.02 and 1.4.  Most,
+major bugs and mistakes have been repaired.  We have also added a new group of features 
+listed below:
+
+1.  A character named "Admin" using the password "admin" so that new
+    MUD owners do not have to fiddle with making thier character.
+    This way you make your character and can advance them using Admin.
+    Delete or change the password for "Admin" once you are set up.
+2.  Fixed a series of bugs that came with the SMAUG 1.4a release as well as bugs
+    which were part of the ResortMUD 4.0 Alpha release.
+3.  Added a webserver option, setable via cset and simply needs
+    to be uncommented in the Makefile and compiled to work.  We should point out
+    depending on your server settings you may get buffer overflows or have a
+    chance of a security breach and do not reccommend it for everyone if new to
+    coding or running a MUD.  The webserver port must be different then the ports
+    used for the MUD's login.
+4.  Added some more code which is from ResortMUD 5.0, these include:
+    Banking			Updated Immscore	Updated Prompts
+    Updated Fprompts		Lockers	Updated		Memorization
+    Simular Help Files          Helpfile Checking       Whois Additions
+5.  Minor fixes here and there provided by Samson and Zebeid.
+
+- Channel histories were added for at least chat and immtalk.
+- InterMUD 3 capabilties, installed, but disabled in the Makefile.
+- IMC2 capabilties, installed, but disabled in the Makefile.
+  (Obviously I3 and IMC2 need compiled once enabled.)
+
+Channel history, InterMUD 3 and IMC2 were added by Samson of Alsherok.
+
+Want a list of the older features from the RM3.0 and 4.0 releases? Go to   
+http://www.mudworld.org/CBHQ/resort/, if this address no longer works, search
+for MudWorld, ResortMUD or UCMM on any major search engine.
+
+* NOTE: All Users -
+  Do not forget before starting up that the MUD's port, main directory and owner's
+  email must be set in rmstart.
+
+* NOTE: Linux Users -
+  We should mention that after you set the Makefile, rmstart and compile the code
+  that to startup the MUD you must type "./rmstart &" in the src directory.
+
+Many of the bugs and fixes were brought to our attention and repaired by Fellon of
+SDFmud.

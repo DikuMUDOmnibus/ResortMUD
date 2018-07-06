@@ -1,0 +1,11461 @@
+#MOBILE
+Vnum	1
+Room	2
+Position 12
+Flags 3&1
+EndMobile
+
+#MOBILE
+Vnum	2
+Room	6
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10399
+Room	10300
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10340
+Room	10303
+Position 12
+Flags 1027
+EndMobile
+
+#MOBILE
+Vnum	10333
+Room	10305
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10394
+Room	10306
+Position 12
+Flags 1048579
+EndMobile
+
+#MOBILE
+Vnum	10352
+Room	10318
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10354
+Room	10320
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10353
+Room	10321
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10351
+Room	10322
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10349
+Room	10323
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10350
+Room	10324
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10335
+Room	10326
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10336
+Room	10327
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10337
+Room	10328
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10338
+Room	10329
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10339
+Room	10330
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	10326
+Room	10331
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10326
+Room	10331
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10312
+Room	10333
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10312
+Room	10333
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10319
+Room	10334
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10319
+Room	10334
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10306
+Room	10335
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10306
+Room	10335
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10313
+Room	10336
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10313
+Room	10336
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10327
+Room	10337
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10327
+Room	10337
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10320
+Room	10338
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10320
+Room	10338
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10307
+Room	10339
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10307
+Room	10339
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10314
+Room	10340
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10314
+Room	10340
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10328
+Room	10341
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10328
+Room	10341
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10321
+Room	10342
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10321
+Room	10342
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10308
+Room	10343
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10308
+Room	10343
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10315
+Room	10344
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10315
+Room	10344
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10329
+Room	10345
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10329
+Room	10345
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10322
+Room	10346
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10322
+Room	10346
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10309
+Room	10347
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10309
+Room	10347
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10316
+Room	10348
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10316
+Room	10348
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10330
+Room	10349
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10330
+Room	10349
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10323
+Room	10350
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10323
+Room	10350
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10310
+Room	10351
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10310
+Room	10351
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10317
+Room	10352
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10317
+Room	10352
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10331
+Room	10353
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10331
+Room	10353
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10324
+Room	10354
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10324
+Room	10354
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10346
+Room	10355
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10343
+Room	10357
+Position 12
+Flags 3
+#OBJECT
+Vnum         10314
+ExtraFlags   8192
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+ExtraFlags   8192
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         10317
+ExtraFlags   8192
+Values       24 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10303
+Room	10363
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10301
+Room	10376
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10301
+Room	10366
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10301
+Room	10366
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10302
+Room	10364
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10302
+Room	10363
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10303
+Room	10372
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10302
+Room	10379
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10302
+Room	10371
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10301
+Room	10379
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10303
+Room	10367
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10303
+Room	10380
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10318
+Room	10387
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10318
+Room	10387
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10325
+Room	10388
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10325
+Room	10388
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10311
+Room	10389
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10311
+Room	10389
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10332
+Room	10390
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10332
+Room	10390
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10355
+Room	10391
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10396
+Room	10397
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	10396
+Room	10395
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	10396
+Room	10393
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	10396
+Room	10395
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	10397
+Room	10397
+Position 12
+Flags 35
+#OBJECT
+Vnum         10318
+Level        5
+Values       12 3 9 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10401
+Room	10401
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	10402
+Room	10402
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10402
+Room	10402
+Position 12
+Flags 67
+#OBJECT
+Vnum         10302
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10303
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10403
+Room	10403
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10403
+Room	10403
+Position 12
+Flags 67
+#OBJECT
+Vnum         10306
+Level        1
+Values       3 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10319
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10404
+Room	10404
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10404
+Room	10404
+Position 12
+Flags 35
+#OBJECT
+Vnum         10304
+Level        1
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         10305
+Level        1
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10405
+Room	10405
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10405
+Room	10405
+Position 12
+Flags 35
+#OBJECT
+Vnum         10300
+Level        1
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         10301
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	10415
+Room	10409
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10409
+Room	10406
+Position 12
+Flags 101
+EndMobile
+
+#MOBILE
+Vnum	10418
+Room	10410
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10417
+Room	10414
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10411
+Room	10420
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10406
+Room	10413
+Position 12
+Flags 101
+EndMobile
+
+#MOBILE
+Vnum	10416
+Room	10418
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10412
+Room	10423
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10407
+Room	10425
+Position 12
+Flags 101
+EndMobile
+
+#MOBILE
+Vnum	10413
+Room	10415
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10420
+Room	10412
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10410
+Room	10421
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10408
+Room	10416
+Position 12
+Flags 101
+EndMobile
+
+#MOBILE
+Vnum	10414
+Room	10425
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10419
+Room	10426
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	10421
+Room	10427
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	21044
+Room	21001
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21045
+Room	21003
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21003
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 4 14 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21055
+Room	21010
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21339
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 3 17 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21022
+Position 12
+Flags 65
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 5 14 3 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21029
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 6 15 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21042
+Position 12
+Flags 65
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 5 15 3 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21040
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 4 13 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21058
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 4 16 3 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21045
+Room	21014
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	21037
+Room	21050
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 5 15 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21004
+Room	21051
+Position 12
+Flags 3
+#OBJECT
+Vnum         21007
+ExtraFlags   8256
+Level        5
+Values       4 69 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         21006
+ExtraFlags   8256
+Level        1
+Values       1 133 -1 -1 0 0
+Spell 1      'identify'
+End
+
+#OBJECT
+Vnum         21005
+ExtraFlags   8256
+Level        1
+Values       1 233 -1 -1 0 0
+Spell 1      'word of recall'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21014
+Room	21052
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21017
+Room	21053
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21003
+Room	21054
+Position 12
+Flags 3
+#OBJECT
+Vnum         21002
+ExtraFlags   8257
+Level        12
+Values       10 63 -1 -1 0 0
+Spell 1      'cure serious'
+End
+
+#OBJECT
+Vnum         21001
+ExtraFlags   8257
+Level        8
+Values       25 60 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         21003
+ExtraFlags   8257
+Level        5
+Values       2 61 -1 -1 0 0
+Spell 1      'cure light'
+End
+
+#OBJECT
+Vnum         21004
+ExtraFlags   8257
+Level        3
+Values       22 184 184 -1 0 0
+Spell 1      'restore mana'
+Spell 2      'restore mana'
+End
+
+#OBJECT
+Vnum         21000
+ExtraFlags   8513
+Level        1
+Values       26 124 -1 -1 0 0
+Spell 1      'heal'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21001
+Room	21055
+Position 12
+Flags 3
+#OBJECT
+Vnum         35
+ExtraFlags   8192
+Level        7
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Vnum         34
+ExtraFlags   8192
+Values       1 -1 -1 -1 0 0
+End
+
+#OBJECT
+Vnum         21049
+ExtraFlags   8257
+Values       0 0 -1 0 0 0
+End
+
+#OBJECT
+Vnum         21046
+ExtraFlags   8257
+Values       75 1 0 1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21011
+Room	21056
+Position 12
+Flags 67
+#OBJECT
+Vnum         36
+ExtraFlags   8192
+End
+
+#OBJECT
+Vnum         37
+ExtraFlags   8192
+Values       15 15 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21018
+Room	21057
+Position 12
+Flags 3
+#OBJECT
+Vnum         21015
+ExtraFlags   8192
+Values       5 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21016
+ExtraFlags   8192
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21014
+ExtraFlags   8192
+Values       1 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21002
+Room	21058
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21015
+Room	21059
+Position 12
+Flags 3
+#OBJECT
+Vnum         21062
+ExtraFlags   8192
+Level        17
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+ExtraFlags   8192
+Level        15
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+ExtraFlags   8192
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+ExtraFlags   8192
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+ExtraFlags   8192
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+ExtraFlags   8192
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+ExtraFlags   8192
+Level        9
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+ExtraFlags   8192
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+ExtraFlags   8192
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+ExtraFlags   8192
+Level        7
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21019
+Room	21060
+Position 12
+Flags 3
+#OBJECT
+Vnum         21020
+ExtraFlags   8192
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21021
+ExtraFlags   8192
+Values       4 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21020
+Room	21061
+Position 12
+Flags 3
+#OBJECT
+Vnum         21017
+ExtraFlags   8192
+Values       10 10 10 0 0 0
+End
+
+#OBJECT
+Vnum         21019
+ExtraFlags   8192
+Values       2 2 6 0 0 0
+End
+
+#OBJECT
+Vnum         21018
+ExtraFlags   8192
+Values       5 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21016
+Room	21062
+Position 12
+Flags 3
+#OBJECT
+Vnum         21081
+ExtraFlags   532480
+Level        12
+Values       12 4 15 11 0 0
+End
+
+#OBJECT
+Vnum         21069
+ExtraFlags   532480
+Level        8
+Values       10 5 12 3 0 0
+End
+
+#OBJECT
+Vnum         21082
+ExtraFlags   532480
+Level        5
+Values       7 2 9 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+ExtraFlags   8192
+Values       10 1 4 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21052
+Room	21025
+Position 12
+Flags 65
+#OBJECT
+Vnum         21055
+Level        6
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21052
+Room	21065
+Position 12
+Flags 65
+#OBJECT
+Vnum         21055
+Level        7
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21052
+Room	21065
+Position 12
+Flags 65
+#OBJECT
+Vnum         21055
+Level        8
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21021
+Room	21066
+Position 12
+Flags 3
+#OBJECT
+Vnum         21079
+ExtraFlags   8192
+Level        14
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         21076
+ExtraFlags   8192
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21080
+ExtraFlags   8192
+Level        10
+Values       1 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21077
+ExtraFlags   8192
+Level        6
+Values       2 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21078
+ExtraFlags   8192
+Level        5
+Values       1 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21013
+Room	21068
+Position 12
+Flags 3
+#OBJECT
+Vnum         21008
+ExtraFlags   8192
+Values       5 5 1 0 0 0
+End
+
+#OBJECT
+Vnum         21009
+ExtraFlags   8192
+Values       10 10 5 0 0 0
+End
+
+#OBJECT
+Vnum         21010
+ExtraFlags   8192
+Values       12 12 4 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21025
+Room	21069
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21068
+Room	21074
+Position 12
+Flags 3
+#OBJECT
+Vnum         21073
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 5 17 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21069
+Room	21075
+Position 12
+Flags 3
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 6 14 3 0 0
+End
+
+#OBJECT
+Vnum         21073
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        13
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21061
+Room	21080
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        14
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 7 13 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21063
+Room	21087
+Position 12
+Flags 3
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        14
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 5 16 3 0 0
+End
+
+#OBJECT
+Vnum         21070
+Level        14
+Values       6 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21062
+Room	21088
+Position 12
+Flags 3
+#OBJECT
+Vnum         21070
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        11
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 6 16 3 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21061
+Room	21092
+Position 12
+Flags 65
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 4 15 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21065
+Room	21099
+Position 12
+Flags 3
+#OBJECT
+Vnum         21071
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        14
+Values       10 6 16 3 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        13
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21064
+Room	21100
+Position 12
+Flags 3
+#OBJECT
+Vnum         21056
+Level        11
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        11
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        11
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 5 16 3 0 0
+End
+
+#OBJECT
+Vnum         21071
+Level        13
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21061
+Room	21107
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        12
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 7 15 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21067
+Room	21112
+Position 12
+Flags 3
+#OBJECT
+Vnum         21072
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        12
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        13
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 4 15 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21066
+Room	21113
+Position 12
+Flags 3
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        12
+Values       10 6 15 3 0 0
+End
+
+#OBJECT
+Vnum         21072
+Level        13
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21061
+Room	21119
+Position 12
+Flags 65
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21065
+Level        14
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21069
+Level        13
+Values       10 6 13 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21028
+Room	21129
+Position 12
+Flags 1027
+#OBJECT
+Vnum         34
+Level        47
+Values       1 -1 -1 -1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21006
+Room	21137
+Position 12
+Flags 1091
+EndMobile
+
+#MOBILE
+Vnum	21007
+Room	21138
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21023
+Room	21142
+Position 12
+Flags 1027
+EndMobile
+
+#MOBILE
+Vnum	21025
+Room	21146
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21012
+Room	21171
+Position 12
+Flags 1091
+EndMobile
+
+#MOBILE
+Vnum	21034
+Room	21190
+Position 12
+Flags 1027
+EndMobile
+
+#MOBILE
+Vnum	21000
+Room	21194
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	21031
+Room	21213
+Position 12
+Flags 1027
+EndMobile
+
+#MOBILE
+Vnum	21035
+Room	21237
+Position 12
+Flags 1027
+EndMobile
+
+#MOBILE
+Vnum	21009
+Room	21275
+Position 12
+Flags 67
+#OBJECT
+Vnum         21025
+ExtraFlags   8192
+End
+
+#OBJECT
+Vnum         21024
+ExtraFlags   8192
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21029
+Room	21295
+Position 12
+Flags 3
+#OBJECT
+Vnum         10314
+ExtraFlags   8192
+Values       15 15 0 0 0 0
+End
+
+#OBJECT
+Vnum         10316
+ExtraFlags   8192
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         10317
+ExtraFlags   8192
+Values       24 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21308
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        13
+Values       10 4 15 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21312
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        13
+Values       10 5 15 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21315
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        14
+Values       10 6 16 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21319
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        12
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        12
+Values       10 5 16 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21324
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        12
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21066
+Level        14
+Values       3 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        14
+Values       10 6 17 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21326
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        13
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        14
+Values       10 3 16 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21329
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21057
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        14
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        15
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        15
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        14
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        14
+Values       10 3 15 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21071
+Room	21333
+Position 12
+Flags 65
+#OBJECT
+Vnum         21056
+Level        14
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         21058
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         21059
+Level        14
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21060
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21061
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21062
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21063
+Level        12
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         21064
+Level        14
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         21067
+Level        13
+Values       0 0 24 0 0 0
+End
+
+#OBJECT
+Vnum         21068
+Level        12
+Values       10 4 15 14 1 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21010
+Room	21335
+Position 12
+Flags 7
+#OBJECT
+Vnum         21022
+ExtraFlags   8192
+Values       4 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21020
+ExtraFlags   8192
+Values       10 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         21019
+ExtraFlags   8192
+Values       2 2 6 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	21022
+Room	21339
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	101
+Room	100
+Position 12
+Flags 2097155
+EndMobile
+
+#MOBILE
+Vnum	100
+Room	101
+Position 12
+Flags 3
+#OBJECT
+Vnum         100
+Level        46
+End
+
+EndMobile
+
+#MOBILE
+Vnum	103
+Room	109
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	104
+Room	116
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	800
+Room	806
+Position 12
+Flags 3
+#OBJECT
+Vnum         800
+Level        36
+Values       12 4 32 6 0 0
+End
+
+#OBJECT
+Vnum         826
+Level        37
+Values       45 163 184 184 0 0
+Spell 1      'pass door'
+Spell 2      'restore mana'
+Spell 3      'restore mana'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	804
+Room	823
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	805
+Room	843
+Position 12
+Flags 69
+#OBJECT
+Vnum         807
+Level        11
+Values       12 3 12 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	803
+Room	820
+Position 12
+Flags 65
+#OBJECT
+Vnum         814
+Level        16
+Values       19 177 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	805
+Room	821
+Position 12
+Flags 69
+#OBJECT
+Vnum         807
+Level        9
+Values       12 3 12 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	805
+Room	814
+Position 12
+Flags 69
+#OBJECT
+Vnum         807
+Level        8
+Values       12 3 12 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	803
+Room	824
+Position 12
+Flags 65
+#OBJECT
+Vnum         814
+Level        18
+Values       18 177 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	805
+Room	821
+Position 12
+Flags 69
+#OBJECT
+Vnum         807
+Level        8
+Values       12 3 12 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	803
+Room	826
+Position 12
+Flags 65
+#OBJECT
+Vnum         814
+Level        18
+Values       20 177 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	810
+Room	835
+Position 12
+Flags 193
+#OBJECT
+Vnum         806
+Level        8
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	803
+Room	830
+Position 12
+Flags 65
+#OBJECT
+Vnum         814
+Level        18
+Values       20 177 -1 -1 0 0
+Spell 1      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	808
+Room	826
+Position 12
+Flags 65
+#OBJECT
+Vnum         809
+Level        22
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+Level        23
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         817
+Level        21
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	810
+Room	836
+Position 12
+Flags 193
+#OBJECT
+Vnum         806
+Level        9
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	801
+Room	833
+Position 12
+Flags 262209
+#OBJECT
+Vnum         804
+Level        16
+Values       24 5 5 90 0 0
+Spell 3      'energy drain'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	801
+Room	834
+Position 12
+Flags 262209
+#OBJECT
+Vnum         804
+Level        15
+Values       25 5 5 90 0 0
+Spell 3      'energy drain'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	815
+Room	845
+Position 12
+Flags 65
+#OBJECT
+Vnum         821
+Level        14
+Values       15 25 193 -1 0 0
+Spell 1      'blindness'
+Spell 2      'shield'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	802
+Room	839
+Position 12
+Flags 97
+#OBJECT
+Vnum         805
+Level        22
+Values       25 4 4 107 0 0
+Spell 3      'flamestrike'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	815
+Room	847
+Position 12
+Flags 65
+#OBJECT
+Vnum         821
+Level        15
+Values       15 25 193 -1 0 0
+Spell 1      'blindness'
+Spell 2      'shield'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	815
+Room	849
+Position 12
+Flags 65
+#OBJECT
+Vnum         821
+Level        15
+Values       15 25 193 -1 0 0
+Spell 1      'blindness'
+Spell 2      'shield'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	851
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        14
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        13
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	851
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        14
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        15
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	855
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        8
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	808
+Room	862
+Position 12
+Flags 65
+#OBJECT
+Vnum         809
+Level        22
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+Level        22
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         817
+Level        21
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	860
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        9
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	858
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        11
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	855
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        10
+Values       12 2 8 2 0 0
+End
+
+#OBJECT
+Vnum         822
+Level        10
+Values       19 69 70 71 0 0
+Spell 1      'detect invis'
+Spell 2      'detect magic'
+Spell 3      'detect poison'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	863
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        10
+Values       12 2 8 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	811
+Room	861
+Position 12
+Flags 101
+#OBJECT
+Vnum         806
+Level        10
+Values       12 2 8 2 0 0
+End
+
+#OBJECT
+Vnum         822
+Level        9
+Values       19 69 70 71 0 0
+Spell 1      'detect invis'
+Spell 2      'detect magic'
+Spell 3      'detect poison'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	812
+Room	864
+Position 12
+Flags 97
+#OBJECT
+Vnum         810
+Level        27
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         803
+Level        28
+Values       23 146 146 -1 0 0
+Spell 1      'lightning bolt'
+Spell 2      'lightning bolt'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	865
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        13
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        13
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	865
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        15
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        14
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	867
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        13
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        13
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	867
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        15
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        14
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	818
+Room	868
+Position 12
+Flags 3
+#OBJECT
+Vnum         813
+Level        25
+Values       0 0 -1 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	819
+Room	868
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	869
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        13
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        13
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	807
+Room	869
+Position 12
+Flags 35
+#OBJECT
+Vnum         808
+Level        13
+Values       12 4 16 1 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        11
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	817
+Room	871
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	816
+Room	872
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	812
+Room	873
+Position 12
+Flags 97
+#OBJECT
+Vnum         810
+Level        28
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         803
+Level        29
+Values       24 146 146 -1 0 0
+Spell 1      'lightning bolt'
+Spell 2      'lightning bolt'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	812
+Room	874
+Position 12
+Flags 97
+#OBJECT
+Vnum         810
+Level        26
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         803
+Level        28
+Values       23 146 146 -1 0 0
+Spell 1      'lightning bolt'
+Spell 2      'lightning bolt'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	812
+Room	875
+Position 12
+Flags 97
+#OBJECT
+Vnum         810
+Level        28
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         803
+Level        27
+Values       24 146 146 -1 0 0
+Spell 1      'lightning bolt'
+Spell 2      'lightning bolt'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	809
+Room	876
+Position 12
+Flags 35
+#OBJECT
+Vnum         809
+Level        24
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        24
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+Level        24
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         817
+Level        24
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         818
+Level        24
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	809
+Room	876
+Position 12
+Flags 35
+#OBJECT
+Vnum         809
+Level        23
+Values       12 6 24 3 0 0
+End
+
+#OBJECT
+Vnum         815
+Level        23
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         816
+Level        24
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         817
+Level        23
+Values       7 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         818
+Level        24
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	813
+Room	877
+Position 12
+Flags 35
+#OBJECT
+Vnum         811
+Level        27
+Values       12 5 25 5 0 0
+End
+
+#OBJECT
+Vnum         802
+Level        27
+Values       31 22 138 -1 0 0
+Spell 1      'blazebane'
+Spell 2      'inner warmth'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	814
+Room	879
+Position 12
+Flags 3
+#OBJECT
+Vnum         812
+Level        32
+Values       12 10 30 3 0 0
+End
+
+#OBJECT
+Vnum         819
+Level        31
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         825
+Level        32
+Values       400000 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3405
+Room	3405
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3409
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3409
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3409
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3402
+Room	3409
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	3400
+Room	3410
+Position 12
+Flags 33
+#OBJECT
+Vnum         3421
+Level        1
+Values       12 2 6 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3403
+Room	3411
+Position 12
+Flags 35
+#OBJECT
+Vnum         3425
+Level        11
+Values       9 2 2 40 0 0
+Spell 3      'charm person'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3416
+Room	3410
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3414
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3414
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3414
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3401
+Room	3414
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	3413
+Room	3417
+Position 12
+Flags 5
+#OBJECT
+Vnum         3422
+Level        1
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3413
+Room	3419
+Position 12
+Flags 5
+#OBJECT
+Vnum         3422
+Level        1
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3400
+Room	3413
+Position 12
+Flags 33
+#OBJECT
+Vnum         3421
+Level        1
+Values       12 2 6 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3409
+Room	3441
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3409
+Room	3431
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3416
+Room	3431
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3400
+Room	3440
+Position 12
+Flags 33
+#OBJECT
+Vnum         3421
+Level        1
+Values       12 2 6 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3413
+Room	3427
+Position 12
+Flags 5
+#OBJECT
+Vnum         3422
+Level        2
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3411
+Room	3434
+Position 12
+Flags 35
+#OBJECT
+Vnum         3414
+Level        15
+Values       12 4 8 11 0 0
+End
+
+#OBJECT
+Vnum         3412
+Level        16
+Values       3 5 -1 0 0 0
+End
+
+#OBJECT
+Nest         1
+Count        2
+Vnum         3413
+Level        16
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3402
+Room	3422
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	3400
+Room	3426
+Position 12
+Flags 33
+#OBJECT
+Vnum         3421
+Level        1
+Values       12 2 6 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3413
+Room	3431
+Position 12
+Flags 5
+#OBJECT
+Vnum         3422
+Level        1
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3416
+Room	3448
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3409
+Room	3444
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3409
+Room	3444
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3402
+Room	3440
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	3416
+Room	3441
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	3410
+Room	3449
+Position 12
+Flags 3
+#OBJECT
+Vnum         3414
+Level        19
+Values       12 4 8 11 0 0
+End
+
+#OBJECT
+Vnum         3429
+Level        18
+Values       6 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3413
+Room	3450
+Position 12
+Flags 5
+#OBJECT
+Vnum         3422
+Level        1
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3407
+Room	3461
+Position 12
+Flags 97
+#OBJECT
+Vnum         3402
+Level        10
+Values       12 3 12 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3407
+Room	3452
+Position 12
+Flags 97
+#OBJECT
+Vnum         3402
+Level        7
+Values       12 3 12 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3402
+Room	3454
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	3406
+Room	3408
+Position 12
+Flags 33
+#OBJECT
+Vnum         3403
+Level        10
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3407
+Room	3457
+Position 12
+Flags 97
+#OBJECT
+Vnum         3402
+Level        7
+Values       12 3 12 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3404
+Room	3460
+Position 12
+Flags 35
+#OBJECT
+Vnum         3428
+Level        22
+Values       12 3 18 3 0 0
+End
+
+#OBJECT
+Vnum         3427
+Level        23
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         3424
+Level        21
+Values       21 44 107 150 0 0
+Spell 1      'colour spray'
+Spell 2      'flamestrike'
+Spell 3      'magic missile'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3402
+Room	3461
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	3406
+Room	3463
+Position 12
+Flags 33
+#OBJECT
+Vnum         3403
+Level        9
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3407
+Room	3465
+Position 12
+Flags 97
+#OBJECT
+Vnum         3402
+Level        8
+Values       12 3 12 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3407
+Room	3463
+Position 12
+Flags 97
+#OBJECT
+Vnum         3402
+Level        8
+Values       12 3 12 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3406
+Room	3467
+Position 12
+Flags 33
+#OBJECT
+Vnum         3403
+Level        12
+Values       7 7 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3414
+Room	3468
+Position 8
+Flags 65
+#OBJECT
+Vnum         3423
+Level        3
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3415
+Room	3468
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	3408
+Room	3470
+Position 12
+Flags 33
+#OBJECT
+Vnum         3425
+Level        19
+Values       9 3 3 40 0 0
+Spell 3      'charm person'
+End
+
+#OBJECT
+Vnum         3426
+Level        19
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6605
+Room	6639
+Position 12
+Flags 65
+#OBJECT
+Vnum         6631
+Level        1
+Values       1 1 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6604
+Room	6626
+Position 12
+Flags 69
+EndMobile
+
+#MOBILE
+Vnum	6601
+Room	6607
+Position 12
+Flags 69
+#OBJECT
+Vnum         6632
+Level        1
+Values       30 63 193 177 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6602
+Room	6606
+Position 12
+Flags 69
+#OBJECT
+Vnum         6634
+Level        1
+Values       12 2 6 12 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6604
+Room	6605
+Position 12
+Flags 69
+EndMobile
+
+#MOBILE
+Vnum	6610
+Room	6606
+Position 12
+Flags 71
+EndMobile
+
+#MOBILE
+Vnum	6601
+Room	6638
+Position 12
+Flags 69
+#OBJECT
+Vnum         6632
+Level        3
+Values       30 63 193 177 0 0
+Spell 1      'cure serious'
+Spell 2      'shield'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6603
+Room	6638
+Position 12
+Flags 69
+EndMobile
+
+#MOBILE
+Vnum	6606
+Room	6633
+Position 12
+Flags 65
+#OBJECT
+Vnum         6635
+Level        2
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         6644
+Level        2
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6607
+Room	6624
+Position 12
+Flags 71
+EndMobile
+
+#MOBILE
+Vnum	6603
+Room	6602
+Position 12
+Flags 69
+EndMobile
+
+#MOBILE
+Vnum	6609
+Room	6626
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	6608
+Room	6631
+Position 12
+Flags 67
+#OBJECT
+Vnum         6630
+Level        4
+Values       3 3 0 1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6600
+Room	6633
+Position 12
+Flags 69
+#OBJECT
+Vnum         6633
+Level        1
+Values       12 1 7 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6606
+Room	6611
+Position 12
+Flags 65
+#OBJECT
+Vnum         6635
+Level        3
+Values       1 1 0 0 0 0
+End
+
+#OBJECT
+Vnum         6644
+Level        3
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6600
+Room	6633
+Position 12
+Flags 69
+#OBJECT
+Vnum         6633
+Level        2
+Values       12 2 6 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6605
+Room	6636
+Position 12
+Flags 65
+#OBJECT
+Vnum         6631
+Level        1
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6602
+Room	6605
+Position 12
+Flags 69
+#OBJECT
+Vnum         6634
+Level        1
+Values       12 2 6 12 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6600
+Room	6639
+Position 12
+Flags 69
+#OBJECT
+Vnum         6633
+Level        1
+Values       12 1 8 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6501
+Room	6502
+Position 12
+Flags 2113
+EndMobile
+
+#MOBILE
+Vnum	6501
+Room	6501
+Position 12
+Flags 2113
+EndMobile
+
+#MOBILE
+Vnum	6501
+Room	6505
+Position 12
+Flags 2113
+EndMobile
+
+#MOBILE
+Vnum	6500
+Room	6505
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6504
+Level        18
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         6505
+Level        18
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6500
+Room	6505
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6504
+Level        18
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         6505
+Level        18
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6506
+Room	6509
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6500
+Room	6509
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6509
+Level        17
+Values       12 2 14 1 0 0
+End
+
+#OBJECT
+Vnum         6510
+Level        17
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6511
+Level        17
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6500
+Room	6509
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6512
+Level        19
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6509
+Level        19
+Values       12 2 14 1 0 0
+End
+
+#OBJECT
+Vnum         6505
+Level        20
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6505
+Room	6519
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6503
+Room	6516
+Position 12
+Flags 3
+#OBJECT
+Vnum         6510
+ExtraFlags   8192
+Level        22
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6504
+ExtraFlags   8192
+Level        20
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         6504
+ExtraFlags   8192
+Level        17
+Values       12 3 18 8 0 0
+End
+
+#OBJECT
+Vnum         6512
+ExtraFlags   8192
+Level        17
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6505
+ExtraFlags   8192
+Level        14
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         6511
+ExtraFlags   8256
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6514
+Room	6521
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6509
+Level        14
+Values       12 2 14 1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6514
+Room	6521
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6509
+Level        13
+Values       12 2 14 1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6523
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6523
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6504
+Level        7
+Values       12 3 18 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6523
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6523
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6524
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6502
+Room	6524
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	6511
+Room	6524
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6512
+Room	6525
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6512
+Room	6529
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6513
+Room	6529
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6513
+Room	6528
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6515
+Room	6531
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6515
+Room	6531
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6510
+Room	6534
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6510
+Room	6534
+Position 12
+Flags 2051
+EndMobile
+
+#MOBILE
+Vnum	6509
+Room	6534
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6506
+Level        8
+Values       13 9 9 60 0 0
+Spell 3      'cure critical'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6504
+Room	6535
+Position 12
+Flags 3
+#OBJECT
+Vnum         6504
+ExtraFlags   8192
+Level        15
+Values       12 3 18 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6507
+Room	6542
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6508
+Level        5
+Values       12 2 12 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6507
+Room	6543
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6508
+Level        5
+Values       12 2 12 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6507
+Room	6543
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6508
+Level        8
+Values       12 2 12 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6508
+Room	6543
+Position 12
+Flags 2051
+#OBJECT
+Vnum         6512
+Level        19
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6508
+Level        18
+Values       12 2 12 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6517
+Room	6548
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	6517
+Room	6549
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	6516
+Room	6553
+Position 12
+Flags 2083
+EndMobile
+
+#MOBILE
+Vnum	9802
+Room	9848
+Position 12
+Flags 97
+#OBJECT
+Vnum         9832
+Level        13
+Values       12 5 15 11 0 0
+End
+
+#OBJECT
+Vnum         9852
+Level        12
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9800
+Room	9850
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	9809
+Room	9853
+Position 12
+Flags 71
+#OBJECT
+Vnum         9838
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         9864
+Level        6
+Values       12 2 9 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9802
+Room	9860
+Position 12
+Flags 97
+#OBJECT
+Vnum         9832
+Level        11
+Values       12 3 14 11 0 0
+End
+
+#OBJECT
+Vnum         9835
+Level        11
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9856
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        9
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9855
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        10
+Values       12 5 14 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9854
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        8
+Values       12 5 13 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9807
+Room	9858
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9859
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        8
+Values       12 5 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9860
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        9
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        8
+Values       12 4 11 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9861
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9833
+Level        11
+Values       12 5 15 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9802
+Room	9860
+Position 12
+Flags 97
+#OBJECT
+Vnum         9832
+Level        12
+Values       12 4 14 11 0 0
+End
+
+#OBJECT
+Vnum         9852
+Level        13
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9801
+Room	9859
+Position 12
+Flags 65
+#OBJECT
+Vnum         9830
+Level        9
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9863
+Room	9863
+Position 12
+Flags 65
+#OBJECT
+Vnum         9835
+Level        13
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         9832
+Level        13
+Values       12 5 17 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9863
+Room	9864
+Position 12
+Flags 65
+#OBJECT
+Vnum         9835
+Level        13
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         9832
+Level        11
+Values       12 4 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9802
+Room	9864
+Position 12
+Flags 97
+#OBJECT
+Vnum         9852
+Level        12
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9803
+Room	9865
+Position 12
+Flags 67
+#OBJECT
+Vnum         9828
+Level        15
+Values       12 4 18 1 0 0
+End
+
+#OBJECT
+Vnum         9829
+Level        14
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9805
+Room	9866
+Position 12
+Flags 3
+#OBJECT
+Vnum         9836
+Level        3
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9804
+Room	9868
+Position 12
+Flags 67
+#OBJECT
+Vnum         9834
+Level        14
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9806
+Room	9870
+Position 12
+Flags 39
+EndMobile
+
+#MOBILE
+Vnum	9811
+Room	9872
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	9812
+Room	9876
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	9814
+Room	9879
+Position 12
+Flags 67
+#OBJECT
+Vnum         9863
+ExtraFlags   8387
+Level        20
+Values       29 76 24 12 0 0
+Spell 1      'dispel magic'
+Spell 2      'bless'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         9860
+ExtraFlags   270401
+Level        20
+Values       40 1 1 80 0 0
+Spell 3      'dragon wit'
+End
+
+#OBJECT
+Vnum         9861
+ExtraFlags   8258
+Level        20
+Values       5 7 0 0 0 0
+End
+
+#OBJECT
+Vnum         9862
+ExtraFlags   8257
+Level        17
+Values       20 2 2 81 0 0
+Spell 3      'dragonskin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	9810
+Room	9882
+Position 12
+Flags 69
+EndMobile
+
+#MOBILE
+Vnum	9815
+Room	9883
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	9813
+Room	9884
+Position 12
+Flags 71
+EndMobile
+
+#MOBILE
+Vnum	9816
+Room	9891
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	9817
+Room	9892
+Position 12
+Flags 3
+#OBJECT
+Vnum         9848
+ExtraFlags   8192
+Level        19
+Values       1 189 208 193 0 0
+Spell 1      'sanctuary'
+Spell 2      'stone skin'
+Spell 3      'shield'
+End
+
+#OBJECT
+Vnum         9846
+ExtraFlags   8192
+Level        18
+Values       3 140 208 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'stone skin'
+End
+
+#OBJECT
+Vnum         9843
+ExtraFlags   8192
+Level        15
+Values       1 167 -1 -1 0 0
+Spell 1      'poison'
+End
+
+#OBJECT
+Vnum         9845
+ExtraFlags   8192
+Level        13
+Values       1 68 69 70 0 0
+Spell 1      'detect hidden'
+Spell 2      'detect invis'
+Spell 3      'detect magic'
+End
+
+#OBJECT
+Vnum         9844
+ExtraFlags   8192
+Level        13
+Values       1 90 90 90 0 0
+Spell 1      'energy drain'
+Spell 2      'energy drain'
+Spell 3      'energy drain'
+End
+
+#OBJECT
+Vnum         9892
+ExtraFlags   8192
+Level        7
+Values       4 80 50 -1 0 0
+Spell 1      'dragon wit'
+Spell 2      'create fire'
+End
+
+#OBJECT
+Vnum         9847
+ExtraFlags   8192
+Level        7
+Values       1 61 61 -1 0 0
+Spell 1      'cure light'
+Spell 2      'cure light'
+End
+
+#OBJECT
+Vnum         9842
+ExtraFlags   8192
+Level        5
+Values       1 25 212 64 0 0
+Spell 1      'blindness'
+Spell 2      'teleport'
+Spell 3      'curse'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24800
+Room	24801
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24801
+Room	24802
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24803
+Room	24806
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24838
+Room	24816
+Position 12
+Flags 67
+#OBJECT
+Vnum         24894
+Level        9
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24839
+Room	24816
+Position 12
+Flags 67
+#OBJECT
+Vnum         24894
+Level        7
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24840
+Room	24816
+Position 12
+Flags 67
+#OBJECT
+Vnum         24894
+Level        7
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24841
+Room	24816
+Position 12
+Flags 67
+#OBJECT
+Vnum         24894
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24842
+Room	24816
+Position 12
+Flags 99
+#OBJECT
+Vnum         24894
+Level        8
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24805
+Room	24817
+Position 12
+Flags 67
+#OBJECT
+Vnum         24804
+Level        32
+Values       12 9 29 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24814
+Room	24818
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24836
+Room	24819
+Position 12
+Flags 67
+#OBJECT
+Vnum         24887
+Level        48
+Values       13 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24888
+Level        48
+Values       12 14 42 8 0 0
+End
+
+#OBJECT
+Vnum         24885
+Level        47
+Values       -20 -20 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24835
+Room	24819
+Position 12
+Flags 67
+#OBJECT
+Vnum         24885
+Level        28
+Values       -20 -20 0 0 0 0
+End
+
+#OBJECT
+Vnum         24884
+Level        29
+Values       12 9 29 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24822
+Room	24820
+Position 12
+Flags 67
+#OBJECT
+Vnum         24817
+Level        27
+Values       10 10 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24823
+Room	24820
+Position 12
+Flags 99
+EndMobile
+
+#MOBILE
+Vnum	24824
+Room	24820
+Position 12
+Flags 67
+#OBJECT
+Vnum         24817
+Level        32
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         24818
+Level        32
+Values       11 11 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24853
+Room	24822
+Position 12
+Flags 67
+#OBJECT
+Vnum         24851
+ExtraFlags   8192
+Values       35 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24845
+ExtraFlags   8192
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24854
+ExtraFlags   8192
+Values       90 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24850
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24844
+ExtraFlags   8192
+Values       80 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24849
+ExtraFlags   8192
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24852
+ExtraFlags   8192
+Values       30 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24848
+ExtraFlags   8192
+Values       80 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24855
+ExtraFlags   8192
+Values       90 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24847
+ExtraFlags   8192
+Values       75 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24846
+ExtraFlags   8192
+Values       75 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24806
+Room	24830
+Position 12
+Flags 1
+#OBJECT
+Vnum         24805
+Level        38
+Values       12 11 34 5 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24843
+Room	24823
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24843
+Room	24823
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24844
+Room	24823
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24844
+Room	24823
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24807
+Room	24824
+Position 12
+Flags 195
+#OBJECT
+Vnum         24803
+Level        37
+Values       12 10 34 1 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24808
+Room	24825
+Position 12
+Flags 67
+#OBJECT
+Vnum         24806
+Level        35
+Values       12 11 30 10 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24809
+Room	24826
+Position 12
+Flags 67
+#OBJECT
+Vnum         24802
+Level        32
+Values       12 8 30 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24833
+Room	24826
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24810
+Room	24827
+Position 12
+Flags 67
+#OBJECT
+Vnum         24807
+Level        33
+Values       12 9 31 11 0 0
+End
+
+#OBJECT
+Vnum         24899
+Level        33
+Values       4 4 2 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24811
+Room	24828
+Position 12
+Flags 99
+#OBJECT
+Vnum         24801
+Level        35
+Values       12 9 31 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24812
+Room	24829
+Position 12
+Flags 67
+#OBJECT
+Vnum         24808
+Level        39
+Values       12 11 35 2 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24813
+Room	24830
+Position 12
+Flags 67
+#OBJECT
+Vnum         24809
+Level        41
+Values       12 13 36 4 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24827
+Room	24832
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	24826
+Room	24832
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	24827
+Room	24833
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	24827
+Room	24834
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	24826
+Room	24834
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	24821
+Room	24848
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24815
+Room	24852
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24818
+Room	24854
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24819
+Room	24854
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24820
+Room	24854
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	24817
+Room	24855
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	24816
+Room	24853
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	24825
+Room	24857
+Position 12
+Flags 99
+#OBJECT
+Vnum         24819
+Level        41
+Values       51 6 6 42 0 0
+Spell 3      'chill touch'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24828
+Room	24862
+Position 12
+Flags 99
+#OBJECT
+Vnum         24824
+Level        42
+Values       -50 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24825
+Level        42
+Values       -50 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24826
+Level        41
+Values       -50 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24827
+Level        42
+Values       -50 13 0 0 0 0
+End
+
+#OBJECT
+Vnum         24858
+Level        42
+Values       12 12 38 11 0 0
+End
+
+#OBJECT
+Vnum         24857
+Level        43
+Values       43 5 5 189 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         24828
+Level        42
+Values       -50 16 0 0 0 0
+End
+
+#OBJECT
+Vnum         24856
+Level        41
+Values       12 12 0 0 0 0
+End
+
+#OBJECT
+Vnum         24829
+Level        43
+Values       -50 -50 0 0 0 0
+End
+
+#OBJECT
+Vnum         24830
+Level        43
+Values       -50 15 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24829
+Room	24865
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	24851
+Room	24867
+Position 12
+Flags 67
+#OBJECT
+Vnum         24836
+ExtraFlags   8192
+Values       60 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24835
+ExtraFlags   8192
+Values       60 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24843
+ExtraFlags   8192
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24833
+ExtraFlags   8192
+Values       65 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24842
+ExtraFlags   8192
+Values       80 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24832
+ExtraFlags   8192
+Values       80 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24831
+ExtraFlags   8192
+Values       70 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24838
+ExtraFlags   8192
+Values       60 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24837
+ExtraFlags   8192
+Values       70 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24841
+ExtraFlags   8192
+Values       60 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24839
+ExtraFlags   8192
+Values       65 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24840
+ExtraFlags   8192
+Values       70 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24834
+ExtraFlags   8192
+Values       65 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24854
+Room	24868
+Position 12
+Flags 67
+#OBJECT
+Vnum         24860
+ExtraFlags   8192
+Values       35 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24872
+ExtraFlags   8192
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24863
+ExtraFlags   8192
+Values       35 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24871
+ExtraFlags   8192
+Values       20 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24869
+ExtraFlags   8192
+Values       35 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24870
+ExtraFlags   8192
+Values       25 0 0 6 0 0
+End
+
+#OBJECT
+Vnum         24864
+ExtraFlags   8192
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24866
+ExtraFlags   8192
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24867
+ExtraFlags   8192
+Values       30 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24861
+ExtraFlags   8192
+Values       30 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24865
+ExtraFlags   8192
+Values       30 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24873
+ExtraFlags   8192
+Values       25 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24868
+ExtraFlags   8192
+Values       40 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24862
+ExtraFlags   8192
+Values       25 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24852
+Room	24869
+Position 12
+Flags 67
+#OBJECT
+Vnum         24881
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24877
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24874
+ExtraFlags   8192
+Values       20 20 10 0 0 0
+End
+
+#OBJECT
+Vnum         24883
+ExtraFlags   8192
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24882
+ExtraFlags   8192
+Values       50 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24876
+ExtraFlags   8192
+Values       30 30 10 0 0 0
+End
+
+#OBJECT
+Vnum         24875
+ExtraFlags   8192
+Values       25 25 10 0 0 0
+End
+
+#OBJECT
+Vnum         24879
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24880
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         24878
+ExtraFlags   8192
+Values       55 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24837
+Room	24872
+Position 12
+Flags 99
+#OBJECT
+Vnum         24892
+Level        29
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24837
+Room	24872
+Position 12
+Flags 99
+#OBJECT
+Vnum         24892
+Level        30
+Values       9 9 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	24837
+Room	24872
+Position 12
+Flags 99
+#OBJECT
+Vnum         24892
+Level        29
+Values       10 10 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3604
+Room	3640
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3604
+Room	3600
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3604
+Room	3618
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3600
+Room	3613
+Position 8
+Flags 65
+#OBJECT
+Vnum         3601
+Level        1
+Values       10 10 5 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3602
+Room	3617
+Position 12
+Flags 35
+#OBJECT
+Vnum         3612
+Level        5
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3604
+Room	3638
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3601
+Room	3645
+Position 12
+Flags 35
+#OBJECT
+Vnum         3606
+Level        2
+Values       5 60 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         3611
+Level        1
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8901
+Room	8902
+Position 12
+Flags 193
+#OBJECT
+Vnum         8910
+Level        20
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8911
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         8913
+Level        19
+Values       14 -1 -1 24 0 0
+Spell 3      'bless'
+End
+
+#OBJECT
+Vnum         8915
+Level        18
+Values       5 -1 -1 25 0 0
+Spell 3      'blindness'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8902
+Room	8902
+Position 12
+Flags 193
+#OBJECT
+Vnum         8910
+Level        11
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8914
+Level        10
+Values       15 -1 -1 38 0 0
+Spell 3      'change sex'
+End
+
+#OBJECT
+Vnum         8916
+Level        11
+Values       6 -1 140 167 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8907
+Room	8906
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	8907
+Room	8908
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	8903
+Room	8906
+Position 12
+Flags 193
+#OBJECT
+Vnum         8910
+Level        11
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8919
+Level        11
+Values       3 -1 62 167 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Vnum         8917
+Level        11
+Values       15 -1 -1 70 0 0
+Spell 3      'detect magic'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8900
+Room	8905
+Position 12
+Flags 193
+#OBJECT
+Vnum         8910
+Level        18
+Values       12 3 9 7 0 0
+End
+
+#OBJECT
+Vnum         8911
+Level        19
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         8919
+Level        18
+Values       4 -1 62 167 0 0
+Spell 2      'cure poison'
+Spell 3      'poison'
+End
+
+#OBJECT
+Vnum         8918
+Level        18
+Values       5 -1 -1 61 0 0
+Spell 3      'cure light'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8904
+Room	8906
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	8906
+Room	8905
+Position 12
+Flags 225
+EndMobile
+
+#MOBILE
+Vnum	8905
+Room	8907
+Position 12
+Flags 193
+EndMobile
+
+#MOBILE
+Vnum	8908
+Room	8901
+Position 12
+Flags 225
+EndMobile
+
+#MOBILE
+Vnum	8909
+Room	8911
+Position 12
+Flags 193
+#OBJECT
+Vnum         8913
+Level        8
+Values       16 -1 -1 24 0 0
+Spell 3      'bless'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8910
+Room	8913
+Position 12
+Flags 193
+#OBJECT
+Vnum         8914
+Level        9
+Values       15 -1 -1 38 0 0
+Spell 3      'change sex'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8910
+Room	8917
+Position 12
+Flags 193
+#OBJECT
+Vnum         8918
+Level        7
+Values       4 -1 -1 61 0 0
+Spell 3      'cure light'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8909
+Room	8918
+Position 12
+Flags 193
+#OBJECT
+Vnum         8916
+Level        9
+Values       5 -1 140 167 0 0
+Spell 2      'kindred strength'
+Spell 3      'poison'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	8911
+Room	8918
+Position 12
+Flags 131137
+#OBJECT
+Vnum         8907
+Level        20
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         8906
+Level        19
+Values       12 5 20 3 0 0
+End
+
+#OBJECT
+Vnum         8900
+Level        21
+Values       8 8 0 0 0 0
+End
+
+#OBJECT
+Vnum         8905
+Level        20
+Values       9 9 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6000
+Room	6013
+Position 12
+Flags 65
+#OBJECT
+Vnum         6000
+Level        4
+Values       12 2 12 1 0 0
+End
+
+#OBJECT
+Vnum         6001
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         6002
+Level        5
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6005
+Room	6015
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	6002
+Room	6022
+Position 4
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6115
+Room	6001
+Position 12
+Flags 149
+#OBJECT
+Vnum         6114
+Level        8
+Values       1 1 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6102
+Room	6150
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6102
+Room	6102
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6102
+Room	6130
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6102
+Room	6144
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6103
+Room	6112
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6103
+Room	6112
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6100
+Room	6105
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6100
+Room	6114
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6103
+Room	6120
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6103
+Room	6120
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6117
+Room	6118
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	6101
+Room	6135
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6101
+Room	6125
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	6112
+Room	6143
+Position 12
+Flags 99
+#OBJECT
+Vnum         6110
+Level        23
+Values       29 140 208 12 0 0
+Spell 1      'kindred strength'
+Spell 2      'stone skin'
+Spell 3      'armor'
+End
+
+#OBJECT
+Vnum         6112
+Level        22
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         6111
+Level        22
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	6116
+Room	6155
+Position 12
+Flags 7
+#OBJECT
+Vnum         6155
+Level        11
+Values       12 2 16 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2407
+Room	2406
+Position 12
+Flags 3
+#OBJECT
+Vnum         2427
+Level        3
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2409
+Room	2407
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2410
+Room	2410
+Position 12
+Flags 3
+#OBJECT
+Vnum         2436
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2408
+Level        5
+Values       15 3 3 60 0 0
+Spell 3      'cure critical'
+End
+
+#OBJECT
+Vnum         2410
+Level        5
+Values       10 2 2 97 0 0
+Spell 3      'faerie fire'
+End
+
+#OBJECT
+Vnum         2409
+Level        5
+Values       6 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2411
+Room	2411
+Position 12
+Flags 3
+#OBJECT
+Vnum         2405
+Level        3
+Values       12 2 7 7 0 0
+End
+
+#OBJECT
+Vnum         2441
+Level        4
+Values       3 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2420
+Room	2420
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2421
+Room	2421
+Position 12
+Flags 3
+#OBJECT
+Vnum         2438
+Level        1
+Values       1 1 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2422
+Room	2423
+Position 12
+Flags 3
+#OBJECT
+Vnum         2439
+Level        3
+Values       10 3 3 44 0 0
+Spell 3      'colour spray'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2425
+Room	2425
+Position 12
+Flags 3
+#OBJECT
+Vnum         2422
+Level        10
+Values       1 1 1 189 0 0
+Spell 3      'sanctuary'
+End
+
+#OBJECT
+Vnum         2423
+Level        11
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2424
+Level        10
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2408
+Room	2446
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2412
+Room	2438
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2442
+Room	2443
+Position 12
+Flags 3
+#OBJECT
+Vnum         2426
+Level        5
+Values       9 124 67 139 0 0
+Spell 1      'heal'
+Spell 2      'detect evil'
+Spell 3      'invis'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2405
+Room	2444
+Position 12
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	2471
+Room	2436
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2408
+Room	2447
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2450
+Room	2450
+Position 12
+Flags 3
+#OBJECT
+Vnum         2452
+Level        9
+Values       4 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2451
+Level        10
+Values       12 3 13 4 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2455
+Room	2482
+Position 12
+Flags 262145
+EndMobile
+
+#MOBILE
+Vnum	2455
+Room	2483
+Position 12
+Flags 262145
+EndMobile
+
+#MOBILE
+Vnum	2456
+Room	2456
+Position 12
+Flags 1
+#OBJECT
+Vnum         2428
+Level        6
+Values       12 2 12 4 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2460
+Room	2460
+Position 12
+Flags 65
+#OBJECT
+Vnum         2433
+Level        5
+Values       4 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2432
+Level        4
+Values       4 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2462
+Room	2462
+Position 12
+Flags 3
+#OBJECT
+Vnum         2449
+Level        4
+Values       1 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2463
+Room	2462
+Position 12
+Flags 3
+#OBJECT
+Vnum         2453
+Level        4
+Values       2 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2465
+Room	2465
+Position 12
+Flags 7
+#OBJECT
+Vnum         2458
+ExtraFlags   270336
+Level        5
+Values       3 69 -1 -1 0 0
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Vnum         2462
+ExtraFlags   270336
+Level        4
+Values       13 60 -1 -1 0 0
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Vnum         2461
+ExtraFlags   270336
+Level        2
+Values       5 140 111 -1 0 0
+Spell 1      'kindred strength'
+Spell 2      'flight'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2426
+Room	2466
+Position 12
+Flags 3
+#OBJECT
+Vnum         2419
+Level        8
+Values       5 5 0 0 0 0
+End
+
+#OBJECT
+Vnum         2418
+Level        8
+Values       30 124 12 177 0 0
+Spell 1      'heal'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2417
+Level        8
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2412
+Room	2473
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2409
+Room	2470
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2471
+Room	2480
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2412
+Room	2475
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2412
+Room	2480
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2455
+Room	2482
+Position 12
+Flags 262145
+EndMobile
+
+#MOBILE
+Vnum	2471
+Room	2473
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2471
+Room	2488
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3506
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3584
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3514
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3514
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3509
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3500
+Room	3515
+Position 12
+Flags 69
+#OBJECT
+Vnum         3509
+Level        7
+Values       8 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3500
+Room	3519
+Position 12
+Flags 69
+#OBJECT
+Vnum         3509
+Level        6
+Values       8 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3551
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3506
+Room	3530
+Position 12
+Flags 97
+#OBJECT
+Vnum         3510
+Level        6
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3516
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3501
+Room	3520
+Position 12
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	3506
+Room	3551
+Position 12
+Flags 97
+#OBJECT
+Vnum         3510
+Level        8
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3506
+Room	3555
+Position 12
+Flags 97
+#OBJECT
+Vnum         3510
+Level        9
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3506
+Room	3555
+Position 12
+Flags 97
+#OBJECT
+Vnum         3510
+Level        8
+Values       8 8 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3505
+Room	3561
+Position 12
+Flags 97
+#OBJECT
+Vnum         3506
+Level        14
+Values       10 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3507
+Level        14
+Values       10 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3505
+Room	3563
+Position 12
+Flags 97
+#OBJECT
+Vnum         3506
+Level        13
+Values       10 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         3507
+Level        13
+Values       10 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3507
+Room	3568
+Position 12
+Flags 35
+#OBJECT
+Vnum         3508
+Level        11
+Values       8 10 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3502
+Room	3575
+Position 6
+Flags 147
+#OBJECT
+Vnum         3500
+Level        3
+Values       4 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3503
+Room	3576
+Position 12
+Flags 67
+#OBJECT
+Vnum         3501
+ExtraFlags   8192
+Values       10 10 4 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	3504
+Room	3577
+Position 8
+Flags 67
+EndMobile
+
+#MOBILE
+Vnum	2071
+Room	2070
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2072
+Room	2082
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2073
+Room	2090
+Position 12
+Flags 3
+#OBJECT
+Vnum         2074
+Level        3
+Values       11 60 12 177 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2070
+Room	2080
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	2073
+Room	2097
+Position 12
+Flags 3
+#OBJECT
+Vnum         2074
+Level        2
+Values       10 60 12 177 0 0
+Spell 1      'cure critical'
+Spell 2      'armor'
+Spell 3      'refresh'
+End
+
+#OBJECT
+Vnum         2073
+Level        2
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7001
+Room	7004
+Position 4
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7001
+Room	7004
+Position 4
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7001
+Room	7025
+Position 4
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7002
+Room	3505
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7051
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7051
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7039
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7052
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7038
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7001
+Room	7041
+Position 4
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7002
+Room	7068
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7003
+Room	7057
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7006
+Room	7122
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7004
+Room	7102
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	7006
+Room	7103
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7103
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7103
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7002
+Room	7112
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7006
+Room	7404
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7005
+Room	7112
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	7005
+Room	7122
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	7005
+Room	7122
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	7200
+Room	7201
+Position 12
+Flags 37
+#OBJECT
+Vnum         7200
+Level        10
+Values       12 3 15 5 0 0
+End
+
+#OBJECT
+Vnum         7203
+Level        10
+Values       6 6 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7201
+Room	7207
+Position 12
+Flags 37
+#OBJECT
+Vnum         7201
+Level        6
+Values       12 2 12 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7202
+Room	7202
+Position 12
+Flags 37
+#OBJECT
+Vnum         7202
+Level        6
+Values       12 2 10 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7202
+Room	7204
+Position 12
+Flags 37
+#OBJECT
+Vnum         7202
+Level        4
+Values       12 2 10 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7214
+Position 12
+Flags 101
+#OBJECT
+Vnum         7211
+Level        3
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7212
+Position 12
+Flags 101
+#OBJECT
+Vnum         7211
+Level        5
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7211
+Position 12
+Flags 101
+#OBJECT
+Vnum         7211
+Level        5
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7220
+Position 12
+Flags 101
+#OBJECT
+Vnum         7208
+Level        5
+Values       0 0 120 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        3
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7221
+Position 12
+Flags 101
+#OBJECT
+Vnum         7209
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        3
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7129
+Position 12
+Flags 101
+#OBJECT
+Vnum         7208
+Level        4
+Values       0 0 120 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        4
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7223
+Position 12
+Flags 101
+#OBJECT
+Vnum         7209
+Level        3
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        4
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7223
+Position 12
+Flags 101
+#OBJECT
+Vnum         7211
+Level        5
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7231
+Position 12
+Flags 101
+#OBJECT
+Vnum         7208
+Level        5
+Values       0 0 120 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        4
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7203
+Room	7233
+Position 12
+Flags 101
+#OBJECT
+Vnum         7209
+Level        4
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         7211
+Level        3
+Values       12 2 8 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7204
+Room	7234
+Position 4
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7280
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7281
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7281
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7002
+Room	7285
+Position 12
+Flags 33
+#OBJECT
+Vnum         7190
+Level        2
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7002
+Room	7285
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7000
+Room	7286
+Position 6
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7013
+Room	7286
+Position 6
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7008
+Room	7400
+Position 12
+Flags 65
+EndMobile
+
+#MOBILE
+Vnum	7013
+Room	7403
+Position 6
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7044
+Room	7406
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	7013
+Room	7412
+Position 6
+Flags 97
+EndMobile
+
+#MOBILE
+Vnum	7045
+Room	7419
+Position 6
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	7011
+Room	7422
+Position 12
+Flags 161
+EndMobile
+
+#MOBILE
+Vnum	7046
+Room	7424
+Position 6
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	7040
+Room	7428
+Position 12
+Flags 39
+#OBJECT
+Vnum         7304
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7305
+Level        30
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7306
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7307
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7308
+Level        30
+Values       10 10 0 0 0 0
+End
+
+#OBJECT
+Vnum         7309
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7310
+Level        29
+Values       9 9 0 0 0 0
+End
+
+#OBJECT
+Vnum         7216
+Level        30
+Values       12 4 16 5 0 0
+End
+
+#OBJECT
+Vnum         7303
+Level        29
+Values       12 7 7 189 0 0
+Spell 3      'sanctuary'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	7010
+Room	7426
+Position 12
+Flags 133
+EndMobile
+
+#MOBILE
+Vnum	7042
+Room	7435
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	7041
+Room	7445
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1517
+Room	1500
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	1527
+Room	1502
+Position 12
+Flags 3
+#OBJECT
+Vnum         1504
+Level        11
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Vnum         1505
+Level        12
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1542
+Level        11
+Values       16 60 60 140 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Vnum         1543
+Level        11
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1527
+Room	1502
+Position 12
+Flags 3
+#OBJECT
+Vnum         1542
+Level        11
+Values       14 60 60 140 0 0
+Spell 1      'cure critical'
+Spell 2      'cure critical'
+Spell 3      'kindred strength'
+End
+
+#OBJECT
+Vnum         1543
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1504
+Level        10
+Values       12 3 9 3 0 0
+End
+
+#OBJECT
+Vnum         1505
+Level        9
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1504
+Room	1505
+Position 12
+Flags 1
+#OBJECT
+Vnum         1537
+Level        10
+Values       21 24 60 177 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1532
+Room	1507
+Position 12
+Flags 1
+#OBJECT
+Vnum         1511
+Level        9
+Values       150 0 -1 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1504
+Room	1506
+Position 12
+Flags 1
+#OBJECT
+Vnum         1537
+Level        10
+Values       19 24 60 177 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1532
+Room	1507
+Position 12
+Flags 1
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1503
+Room	1509
+Position 12
+Flags 1
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1531
+Room	1512
+Position 12
+Flags 1
+#OBJECT
+Vnum         1537
+Level        8
+Values       21 24 60 177 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1531
+Room	1513
+Position 12
+Flags 1
+#OBJECT
+Vnum         1537
+Level        9
+Values       19 24 60 177 0 0
+Spell 1      'bless'
+Spell 2      'cure critical'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1503
+Room	1508
+Position 12
+Flags 1
+#OBJECT
+Vnum         1511
+Level        10
+Values       150 0 -1 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1530
+Room	1513
+Position 12
+Flags 3
+#OBJECT
+Vnum         1536
+Level        12
+Values       6 9 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1505
+Room	1514
+Position 12
+Flags 3
+#OBJECT
+Vnum         1508
+Level        12
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1509
+Level        13
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         1535
+Level        12
+Values       12 4 12 3 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1510
+Room	1516
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1511
+Room	1516
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	1509
+Room	1515
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1510
+Room	1518
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1509
+Room	1517
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1509
+Room	1515
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1537
+Room	1533
+Position 12
+Flags 1
+#OBJECT
+Vnum         1539
+Level        4
+Values       15 1 1 208 0 0
+Spell 3      'stone skin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1537
+Room	1521
+Position 12
+Flags 1
+#OBJECT
+Vnum         1539
+Level        4
+Values       15 1 1 208 0 0
+Spell 3      'stone skin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1502
+Room	1532
+Position 12
+Flags 1
+#OBJECT
+Vnum         1515
+Level        10
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1502
+Room	1535
+Position 12
+Flags 1
+#OBJECT
+Vnum         1515
+Level        10
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1534
+Room	1522
+Position 12
+Flags 3
+#OBJECT
+Vnum         1536
+Level        8
+Values       6 9 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1500
+Room	1522
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1500
+Room	1522
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1566
+Room	1523
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1566
+Room	1523
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1566
+Room	1523
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1538
+Room	1526
+Position 12
+Flags 1
+#OBJECT
+Vnum         1541
+Level        9
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1538
+Room	1526
+Position 12
+Flags 1
+#OBJECT
+Vnum         1541
+Level        8
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1536
+Room	1528
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        7
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1538
+Room	1528
+Position 12
+Flags 1
+#OBJECT
+Vnum         1541
+Level        9
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1538
+Room	1525
+Position 12
+Flags 1
+#OBJECT
+Vnum         1541
+Level        8
+Values       2 2 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1514
+Room	1529
+Position 12
+Flags 3
+#OBJECT
+Vnum         1538
+Level        11
+Values       2 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1536
+Room	1531
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1536
+Room	1531
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1533
+Room	1535
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1502
+Room	1536
+Position 12
+Flags 1
+#OBJECT
+Vnum         1515
+Level        10
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1502
+Room	1531
+Position 12
+Flags 1
+#OBJECT
+Vnum         1515
+Level        10
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1533
+Room	1536
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        5
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1533
+Room	1534
+Position 12
+Flags 5
+#OBJECT
+Vnum         1502
+Level        6
+Values       12 2 8 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1501
+Room	1535
+Position 12
+Flags 1
+#OBJECT
+Vnum         1540
+Level        9
+Values       1 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1501
+Room	1533
+Position 12
+Flags 1
+#OBJECT
+Vnum         1540
+Level        9
+Values       1 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1501
+Room	1534
+Position 12
+Flags 1
+#OBJECT
+Vnum         1540
+Level        8
+Values       1 3 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1537
+Room	1520
+Position 12
+Flags 1
+#OBJECT
+Vnum         1539
+Level        4
+Values       15 1 1 208 0 0
+Spell 3      'stone skin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1537
+Room	1520
+Position 12
+Flags 1
+#OBJECT
+Vnum         1539
+Level        4
+Values       16 1 1 208 0 0
+Spell 3      'stone skin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1537
+Room	1538
+Position 12
+Flags 1
+#OBJECT
+Vnum         1539
+Level        4
+Values       14 1 1 208 0 0
+Spell 3      'stone skin'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1508
+Room	1543
+Position 12
+Flags 5
+#OBJECT
+Vnum         1512
+Level        3
+Values       16 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1508
+Room	1542
+Position 12
+Flags 5
+#OBJECT
+Vnum         1512
+Level        3
+Values       16 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1547
+Room	1541
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	1508
+Room	1544
+Position 12
+Flags 5
+#OBJECT
+Vnum         1513
+Level        4
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1508
+Room	1543
+Position 12
+Flags 5
+#OBJECT
+Vnum         1513
+Level        3
+Values       15 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1545
+Room	1546
+Position 12
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1546
+Room	1547
+Position 12
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1547
+Room	1550
+Position 12
+Flags 1
+EndMobile
+
+#MOBILE
+Vnum	1524
+Room	1554
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1529
+Room	1556
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1513
+Room	1571
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1513
+Room	1572
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1513
+Room	1565
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1574
+Position 12
+Flags 5
+#OBJECT
+Vnum         1597
+Level        2
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1565
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1526
+Room	1566
+Position 12
+Flags 3
+#OBJECT
+Vnum         1534
+Level        13
+Values       21 137 198 220 0 0
+Spell 1      'infravision'
+Spell 2      'slink'
+Spell 3      'valiance'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1572
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1565
+Position 12
+Flags 5
+#OBJECT
+Vnum         1597
+Level        4
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1568
+Position 12
+Flags 5
+#OBJECT
+Vnum         1597
+Level        4
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1520
+Room	1570
+Position 12
+Flags 5
+EndMobile
+
+#MOBILE
+Vnum	1548
+Room	1575
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1548
+Room	1575
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        9
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1548
+Room	1575
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        8
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1548
+Room	1575
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1548
+Room	1575
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        9
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1519
+Room	1576
+Position 8
+Flags 3
+#OBJECT
+Vnum         1544
+Level        16
+Values       2 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1545
+Level        16
+Values       12 6 18 8 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1518
+Room	1576
+Position 12
+Flags 3
+#OBJECT
+Vnum         1520
+Level        6
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1518
+Room	1576
+Position 12
+Flags 3
+#OBJECT
+Vnum         1520
+Level        8
+Values       6 6 0 0 0 0
+End
+
+#OBJECT
+Vnum         1521
+Level        8
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1521
+Room	1577
+Position 12
+Flags 7
+#OBJECT
+Vnum         1523
+Level        12
+Values       31 124 24 177 0 0
+Spell 1      'heal'
+Spell 2      'bless'
+Spell 3      'refresh'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1516
+Room	1580
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        9
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Vnum         1519
+Level        10
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1548
+Level        9
+Values       20 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         1533
+Level        9
+Values       5 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1516
+Room	1580
+Position 12
+Flags 35
+#OBJECT
+Vnum         1521
+Level        7
+Values       12 4 12 7 0 0
+End
+
+#OBJECT
+Vnum         1519
+Level        9
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         1548
+Level        8
+Values       20 0 0 0 0 0
+End
+
+#OBJECT
+Vnum         1533
+Level        8
+Values       5 0 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1515
+Room	1581
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	1515
+Room	1593
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	1552
+Room	1584
+Position 12
+Flags 3
+#OBJECT
+Vnum         1521
+Level        9
+Values       12 4 12 7 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	1551
+Room	1586
+Position 12
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1549
+Room	1588
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1549
+Room	1587
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1549
+Room	1587
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1549
+Room	1588
+Position 12
+Flags 33
+EndMobile
+
+#MOBILE
+Vnum	1522
+Room	1590
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1522
+Room	1590
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1522
+Room	1590
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1539
+Room	1591
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1523
+Room	1592
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1523
+Room	1592
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1523
+Room	1592
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1523
+Room	1592
+Position 6
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1515
+Room	1595
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	1515
+Room	1593
+Position 12
+Flags 37
+EndMobile
+
+#MOBILE
+Vnum	1551
+Room	1595
+Position 12
+Flags 7
+EndMobile
+
+#MOBILE
+Vnum	1550
+Room	1598
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1550
+Room	1599
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	1550
+Room	1599
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2110
+Room	2111
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        3
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        3
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2122
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        7
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        7
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        6
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        7
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2101
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2101
+Room	2109
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        1
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        3
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2115
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2101
+Room	2104
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        2
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        1
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2113
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        9
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        10
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        9
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2120
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2104
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        7
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        6
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2101
+Room	2115
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        1
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        3
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2124
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        8
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2102
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        7
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2102
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        5
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2119
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        4
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        5
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2128
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        5
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2106
+Room	2135
+Position 12
+Flags 39
+#OBJECT
+Vnum         2112
+Level        9
+Values       -15 -15 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2143
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2152
+Position 12
+Flags 69
+#OBJECT
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         2104
+Level        4
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2149
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        9
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        7
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2101
+Room	2140
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        4
+Values       12 2 14 4 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2103
+Room	2142
+Position 12
+Flags 99
+#OBJECT
+Vnum         2109
+Level        11
+Values       2 2 0 0 0 0
+End
+
+#OBJECT
+Vnum         2111
+Level        12
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2108
+Room	2142
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	2108
+Room	2142
+Position 12
+Flags 35
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2152
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        3
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        4
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2151
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2138
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        9
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        9
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        10
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        9
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2136
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        8
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2164
+Position 12
+Flags 69
+#OBJECT
+Vnum         2106
+Level        6
+Values       12 7 14 11 0 0
+End
+
+#OBJECT
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2110
+Room	2143
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        2
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        2
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2102
+Room	2145
+Position 12
+Flags 69
+#OBJECT
+Vnum         2104
+Level        6
+Values       4 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2106
+Level        5
+Values       12 7 14 11 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2105
+Room	2156
+Position 12
+Flags 7
+#OBJECT
+Vnum         2108
+Level        4
+Values       6 3 3 111 0 0
+Spell 3      'flight'
+End
+
+#OBJECT
+Vnum         2105
+Level        5
+Values       10 4 4 75 0 0
+Spell 3      'dispel evil'
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2155
+Position 12
+Flags 193
+#OBJECT
+Vnum         2102
+Level        7
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2112
+Level        6
+Values       -15 -15 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        6
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2156
+Position 12
+Flags 193
+#OBJECT
+Vnum         2102
+Level        8
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        9
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2112
+Level        8
+Values       -15 -15 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        9
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2158
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        9
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        8
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        10
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2110
+Room	2144
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        4
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        3
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2120
+Room	2164
+Position 12
+Flags 3
+EndMobile
+
+#MOBILE
+Vnum	2107
+Room	2168
+Position 12
+Flags 193
+#OBJECT
+Vnum         2110
+Level        8
+Values       12 1 12 7 0 0
+End
+
+#OBJECT
+Vnum         2102
+Level        8
+Values       5 4 0 0 0 0
+End
+
+#OBJECT
+Vnum         2107
+Level        7
+Values       3 3 0 0 0 0
+End
+
+#OBJECT
+Vnum         2120
+Level        8
+Values       4 4 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2104
+Room	2170
+Position 12
+Flags 7
+#OBJECT
+Vnum         2105
+Level        7
+Values       12 3 3 75 0 0
+Spell 3      'dispel evil'
+End
+
+#OBJECT
+Vnum         2118
+Level        7
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2110
+Room	2171
+Position 12
+Flags 69
+#OBJECT
+Vnum         2103
+Level        3
+Values       12 2 14 4 0 0
+End
+
+#OBJECT
+Vnum         2101
+Level        5
+Values       5 5 0 0 0 0
+End
+
+EndMobile
+
+#MOBILE
+Vnum	2071
+Room	2073
+Position 12
+Flags 65
+EndMobile
+
+#END

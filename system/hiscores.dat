@@ -1,0 +1,40 @@
+#HISCORES
+#TABLE
+Keyword    pkill
+Desc       Greatest PKillers~
+Vnum       -1
+MaxLength  10
+End
+
+#TABLE
+Keyword    hskelter_pkill
+Desc       Helter Skelter Pkillers~
+Vnum       -1
+MaxLength  10
+End
+
+#TABLE
+Keyword    mkill
+Desc       Greatest Warriors~
+Vnum       -1
+MaxLength  10
+Entry      Tormius 3
+Entry      Test 2
+Entry      Fellon 2
+End
+
+#TABLE
+Keyword    arena_pkill
+Desc       Greatest Arena PKillers~
+Vnum       -1
+MaxLength  10
+End
+
+#TABLE
+Keyword    mdeath
+Desc       Most Frequently Killed by Mobs~
+Vnum       -1
+MaxLength  10
+End
+
+#END

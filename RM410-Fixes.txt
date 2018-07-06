@@ -1,0 +1,110 @@
+ResortMUD 4.10
+
+	These bugs were fixed during the week of August 3rd, 2003.  If 
+you find a bug not listed here, they were either fixed before the above 
+date or simply did not apply to the code because of some other changes 
+made.  Do keep in mind many bugs are listed multiple times, each on 
+different sites, so we will not list them any additional times beyond 
+the first time they are found.  If the fix's author is not the same as 
+the site owner, the author is named to the right.
+
+	New to this codebase is an addition to the do_memory 
+function.  If you type "memory" on the MUD, you will see a version ID 
+and the date the new version began developement.
+
+	If you discover a new bug, please post it and the fix, if one 
+is available, at MudWorld on its forums.  Make sure to post bugs in 
+their appropriate discussions.  Samson and Zebeid provided additional
+ResortMUD specific bugs not listed here.  Thank you!
+
+- Project Code - Samson
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=215&s=7f3302101fa618290973e3b884885c47
+
+- Weaponspell - Rinthos (Only top 2 entries.)
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=222&s=7f3302101fa618290973e3b884885c47
+
+- Make_Obj - Remcon
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=291&s=7f3302101fa618290973e3b884885c47
+
+- Ports - Kylotan & Samson
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=351&s=7f3302101fa618290973e3b884885c47
+
+- Major Fixes:
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=9&s=7f3302101fa618290973e3b884885c47
+Destroy Fix - DreamWryter, Druid, Orion Elder, Remcon
+Bestow Fix - Orion Elder, Remcon
+Ignore Fix - Orion Elder
+Midus Touch - Orion Elder
+Move_Char Fix - Orion Elder, Samson
+Mstat DamDie - Orion Elder
+On Editing - Orion Elder
+Mset Rename - Orion Elder
+Polymorph Leak - Samson
+Violence Update - Vladaar
+VSearch - Remcon, Samson (Set number to 1000000)
+Bug Logs - Samson
+Closing Tongues - Samson
+write_to_descriptor - Orion Elder, Rustry
+load_rooms - Remcon
+Shop Inventory - Samson
+Demote - Samson
+Damage_Obj - Samson
+Installarea Sorting - Samson
+Do_Loadup - Samson
+P & O Resets - Samson
+AFK - Samson and Gateway Sysop
+Wizinvis - Samson
+
+- Minor Fixes - Orion
+http://forums.mudplanet.org/index.php?act=ST&f=54&t=20&s=752132713c7a8b06341435e774f7a47a
+Tax_player function enabled.
+
+- Darkoth's Bug Fix List:
+http://darkoth.kyndig.com/Code/smaugbugs.txt
+Bare fix - Newt
+
+- Joe Fabiano's Bug Fix List:
+http://www.angelfire.com/vt/starmud/bugfix.html
+BUG1: Wand/Staff Sales (Around line 300 in RM)
+BUG3: Level 0 Mobs
+
+- SMAUG Macros Fixes - Samson
+http://www.alsherok.net/afkmud/scripts/download.php?file=Macros.txt
+
+- Druid's SMAUG Bug Fix List:
+http://legacy.sheltonbbs.com/~rhaas/pirate/files/smbugs.txt
+Bestow & Bestowarea
+Create Water
+Do_reply
+Prog Memory Leak
+Save clan & council formats
+Race_name Freed
+Mpact Memory Leak
+Temp Freed
+Advance demotion
+Character & Zap
+Double Allocation Leak
+
+- Nivek's Bug Fix List:
+http://www.cs.utk.edu/~london/smaug/bugfix.html
+Major:
+Number Range Percent - Nivek
+Minor:
+Bug Statement - Samson
+
+- Sadiq's Bug Fix List:
+http://www.alsherok.net/sadiq/
+Acid Breath - Sadiq
+Paladin Damage - Zylara
+Advance Imm Demotion - Orion
+Last Security - Senir
+Non-Assigned Aloaded - Druid
+Rdelete Resets - Aurora
+Class Title Setting - Unknown
+Clanname Duplication - Unknown
+! Password Error - Unknown
+
+Additional:
+Transfer All Fix - Zebied
+I3 Updated - Samson
+IMC2 Hooks Updated - Samson

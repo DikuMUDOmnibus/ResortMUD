@@ -1,0 +1,2 @@
+cd ../area
+valgrind -v --tool=memcheck --leak-check=yes --db-attach=yes --num-callers=10 --track-fds=yes ../src/rmexe 9500

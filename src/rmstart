@@ -1,0 +1,72 @@
+#! /bin/csh -f
+
+# Set the port number.
+set port = 4100
+set basedir = /home/ucmm2/RM-Dev/rm4
+set email = "ucmm@localhost"
+
+if ( "$1" != "" ) set port="$1"
+if ( "$2" == "newlog" ) rm $basedir/log/* 
+
+# Change to area directory.
+cd $basedir/area
+
+# Set limits.
+nohup
+nice
+#limit stack 2048k
+limit coredumpsize unlimited
+if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    cd $basedir/area
+
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	set logfile = $basedir/log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Record starting time
+    date > $logfile
+    date > $basedir/area/boot.txt
+
+    cd $basedir/src/utils
+    ./grux >&! $logfile
+    cd $basedir/area
+
+    # Run SMAUG.
+    # Check if already running
+    set matches = `netstat -an | grep ":$port " | grep -c LISTEN`
+    if ( $matches >= 1 ) then
+       # Already running
+       echo Port $port is already in use.
+       exit 0
+    endif
+    $basedir/src/rmexe $port >>&! $logfile
+
+    if ( -e core ) then
+      \mv core ../src
+      cd ../src
+      date > $basedir/crash/$index.crash
+      gdb -batch -x commands rmexe core >> $basedir/crash/$index.crash
+      #rm -f core
+      cd $basedir/area
+    endif
+
+    # Restart, giving old connections a chance to die.
+
+    if ( -e $basedir/area/shutdown.txt ) then
+	echo "Script killed!" > $basedir/area/bootlog
+	cat $basedir/area/shutdown.txt > $basedir/area/bootlog
+	/usr/lib/sendmail $email < $basedir/area/bootlog
+	rm -f $basedir/area/bootlog
+	cp $basedir/area/shutdown.txt $basedir/area/shutdown.last
+	rm -f $basedir/area/shutdown.txt
+	exit 0
+    endif
+    sleep 15
+end
