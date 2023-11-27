@@ -32,7 +32,10 @@
 #include <sys/types.h>
 
 #pragma warning( disable : 4996 )
+
+#ifdef WIN32
 #define snprintf _snprintf
+#endif
 
 typedef struct SHA256Context
 {

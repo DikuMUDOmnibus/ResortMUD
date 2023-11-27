@@ -301,7 +301,6 @@ typedef ch_ret SPELL_FUN args( ( int sn, int level, CHAR_DATA * ch, void *vo ) )
 /* 
  * Stuff for area versions --Shaddai
  */
-int area_version;
 #define HAS_SPELL_INDEX     -1
 #define AREA_VERSION_WRITE 1
 
@@ -1080,7 +1079,7 @@ struct mob_prog_data
    bool fileprog;
 };
 
-bool MOBtrigger;
+extern bool MOBtrigger;
 
 /*
  * Per-class stuff.
@@ -5280,44 +5279,44 @@ do									\
 	(*(vector + index/CHAR_SIZE) ^= (1 << index%CHAR_SIZE))
 
 #ifdef WIN32
-void gettimeofday( struct timeval *tv, struct timezone *tz );
-void kill_timer(  );
+   void gettimeofday( struct timeval *tv, struct timezone *tz );
+   void kill_timer(  );
 
-/* directory scanning stuff */
+   /* directory scanning stuff */
 
-typedef struct dirent
-{
-   char *d_name;
-};
+   typedef struct dirent
+   {
+      char *d_name;
+   };
 
-typedef struct
-{
-   HANDLE hDirectory;
-   WIN32_FIND_DATA Win32FindData;
-   struct dirent dirinfo;
-   char sDirName[MAX_PATH];
-} DIR;
+   typedef struct
+   {
+      HANDLE hDirectory;
+      WIN32_FIND_DATA Win32FindData;
+      struct dirent dirinfo;
+      char sDirName[MAX_PATH];
+   } DIR;
 
+   DIR *opendir( char *sDirName );
+   struct dirent *readdir( DIR * dp );
+   void closedir( DIR * dp );
 
-DIR *opendir( char *sDirName );
-struct dirent *readdir( DIR * dp );
-void closedir( DIR * dp );
+   /* --------------- Stuff for Win32 services ------------------ */
+   /*
 
-/* --------------- Stuff for Win32 services ------------------ */
-/*
+      NJG:
 
-   NJG:
+      When "exit" is called to handle an error condition, we really want to
+      terminate the game thread, not the whole process.
 
-   When "exit" is called to handle an error condition, we really want to
-   terminate the game thread, not the whole process.
+   */
 
- */
+   #define exit(arg) Win32_Exit(arg)
+   void Win32_Exit( int exit_code );
 
-#define exit(arg) Win32_Exit(arg)
-void Win32_Exit( int exit_code );
-
-// to emulate Unix rename - we must delete the newpath first
-int RENAME (const char * oldpath, const char * newpath);
+   // to emulate Unix rename - we must delete the newpath first
+   // int RENAME (const char * oldpath, const char * newpath);
+    #define rename RENAME
 
 #endif
 

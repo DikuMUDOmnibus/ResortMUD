@@ -132,6 +132,7 @@ fd_set out_set;   /* Set of desc's for writing  */
 fd_set exc_set;   /* Set of desc's with errors  */
 int maxdesc;
 char *alarm_section = "(unknown)";
+bool MOBtrigger;
 
 /*
  * OS-dependent local functions.
