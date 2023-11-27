@@ -2166,6 +2166,8 @@ void closedir( DIR * dp )
    free( dp );
 }
 
+#endif
+
 // to emulate Unix rename - we must delete the newpath first
 int RENAME (const char * oldpath, const char * newpath)
   {
@@ -2173,4 +2175,3 @@ int RENAME (const char * oldpath, const char * newpath)
   return rename (oldpath, newpath);
   }
 
-#endif

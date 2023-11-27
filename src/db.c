@@ -253,6 +253,7 @@ int top_room;
 int top_shop;
 int top_repair;
 int top_vroom;
+int area_version;
 
 /*
  * Semi-locals.

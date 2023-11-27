@@ -32,7 +32,6 @@
 #include <sys/types.h>
 
 #pragma warning( disable : 4996 )
-#define snprintf _snprintf
 
 typedef struct SHA256Context
 {

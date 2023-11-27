@@ -44,8 +44,7 @@
 #define index strchr
 #define rindex strrchr
 #pragma warning( disable : 4550 )   /* NJG */
-#define vsnprintf _vsnprintf  /* NJG */
-#define snprintf _snprintf /* NJG */
+#define vy _vsnprintf  /* NJG */
 #define lstat stat   /* NJG */
 #pragma comment( lib, "ws2_32.lib" )   /* NJG */
 #pragma comment( lib, "winmm.lib" ) /* NJG */
@@ -301,7 +300,7 @@ typedef ch_ret SPELL_FUN args( ( int sn, int level, CHAR_DATA * ch, void *vo ) )
 /* 
  * Stuff for area versions --Shaddai
  */
-int area_version;
+extern int area_version;
 #define HAS_SPELL_INDEX     -1
 #define AREA_VERSION_WRITE 1
 
@@ -1080,7 +1079,7 @@ struct mob_prog_data
    bool fileprog;
 };
 
-bool MOBtrigger;
+extern bool MOBtrigger;
 
 /*
  * Per-class stuff.
@@ -5316,10 +5315,10 @@ void closedir( DIR * dp );
 #define exit(arg) Win32_Exit(arg)
 void Win32_Exit( int exit_code );
 
-// to emulate Unix rename - we must delete the newpath first
-int RENAME (const char * oldpath, const char * newpath);
-
 #endif
+
+// to emulate Unix rename - we must delete the newpath first
+int RENAME(const char * oldpath, const char * newpath);
 
 #define send_to_char send_to_char_color
 #define send_to_pager send_to_pager_color
