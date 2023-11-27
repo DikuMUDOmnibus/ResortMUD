@@ -146,7 +146,7 @@ void do_saveall( CHAR_DATA * ch, char *argument )
    }
    save_world( ch );
    log_string_plus( "Saving help.are...", LOG_NORMAL, LEVEL_GREATER );
-   RENAME( "help.are", "help.are.bak" );
+   rename( "help.are", "help.are.bak" );
    if( ( fpout = fopen( "help.are", "w" ) ) == NULL )
    {
       bug( "hset save: fopen", 0 );
@@ -3380,7 +3380,7 @@ void do_balzhur( CHAR_DATA * ch, char *argument )
          close_area( pArea );
          sprintf( buf2, "%s.bak", buf );
          set_char_color( AT_RED, ch ); /* Log message changes colors */
-         if( !RENAME( buf, buf2 ) )
+         if( !rename( buf, buf2 ) )
             send_to_char( "Player's area data destroyed.  Area saved as backup.\r\n", ch );
          else if( errno != ENOENT )
          {
@@ -4922,7 +4922,7 @@ void do_mortalize( CHAR_DATA * ch, char *argument )
             close_area( pArea );
             sprintf( buf2, "%s.bak", buf );
             set_char_color( AT_RED, ch );
-            if( !RENAME( buf, buf2 ) )
+            if( !rename( buf, buf2 ) )
                send_to_char( "Player's area data destroyed.  Area saved as backup.\r\n", ch );
             else if( errno != ENOENT )
             {
@@ -5917,7 +5917,7 @@ void do_destroy( CHAR_DATA * ch, char *argument )
             save_equipment[x][y] = NULL;
    }
 
-   if( !RENAME( buf, buf2 ) )
+   if( !rename( buf, buf2 ) )
    {
       AREA_DATA *pArea;
 
@@ -5945,7 +5945,7 @@ void do_destroy( CHAR_DATA * ch, char *argument )
 
             sprintf( buf2, "%s.bak", buf );
             set_char_color( AT_RED, ch ); /* Log message changes colors */
-            if( !RENAME( buf, buf2 ) )
+            if( !rename( buf, buf2 ) )
                send_to_char( "Player's area data destroyed.  Area saved as backup.\r\n", ch );
             else if( errno != ENOENT )
             {
@@ -10036,10 +10036,10 @@ void do_pcrename( CHAR_DATA * ch, char *argument )
 
       sprintf( filename, "%s%s.are", BUILD_DIR, victim->name );
       sprintf( newfilename, "%s%s.are", BUILD_DIR, capitalize( arg2 ) );
-      RENAME( filename, newfilename );
+      rename( filename, newfilename );
       sprintf( filename, "%s%s.are.bak", BUILD_DIR, victim->name );
       sprintf( newfilename, "%s%s.are.bak", BUILD_DIR, capitalize( arg2 ) );
-      RENAME( filename, newfilename );
+      rename( filename, newfilename );
    }
 
    STRFREE( victim->name );

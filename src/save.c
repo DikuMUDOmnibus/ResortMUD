@@ -210,7 +210,7 @@ void save_char_obj( CHAR_DATA * ch )
    if( IS_SET( sysdata.save_flags, SV_BACKUP ) || ( IS_SET( sysdata.save_flags, SV_QUITBACKUP ) && quitting_char == ch ) )
    {
       sprintf( strback, "%s%c/%s", BACKUP_DIR, tolower( ch->pcdata->filename[0] ), capitalize( ch->pcdata->filename ) );
-      RENAME( strsave, strback );
+      rename( strsave, strback );
    }
 
    /*

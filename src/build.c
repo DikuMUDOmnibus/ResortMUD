@@ -5959,7 +5959,7 @@ void fold_area( AREA_DATA * tarea, char *filename, bool install )
    log_string_plus( buf, LOG_NORMAL, LEVEL_GREATER );
 
    sprintf( buf, "%s.bak", filename );
-   RENAME( filename, buf );
+   rename( filename, buf );
    if( ( fpout = fopen( filename, "w" ) ) == NULL )
    {
       bug( "fold_area: fopen", 0 );
@@ -6771,7 +6771,7 @@ void do_installarea( CHAR_DATA * ch, char *argument )
          send_to_char( "Renaming author's building file.\r\n", ch );
          sprintf( buf, "%s%s.installed", BUILD_DIR, tarea->filename );
          sprintf( arg, "%s%s", BUILD_DIR, tarea->filename );
-         RENAME( arg, buf );
+         rename( arg, buf );
          send_to_char( "Done.\r\n", ch );
          return;
       }
