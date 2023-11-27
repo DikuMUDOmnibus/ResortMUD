@@ -1,14 +1,15 @@
 #PLAYER
 Version      4
 Name         Admin~
-Description  This is Admin's description.~
+Description  This is Admin's description.q
+~
 Sex          1
 Class        1
 Race         30
 Languages    -1 -262145
 Level        116
-Played       6264014
-Room         1200
+Played       6277561
+Room         21112
 Memorized		0 0 0 0 0 0 0 0
 HpManaMove   32700 32700 29995 29950 20000 20000
 Gold         9400000
@@ -31,7 +32,7 @@ Damroll      1
 Armor        -364
 Resistant    1060735
 Mentalstate  28
-Password     9a7bfff4e5f5ac3a82bdbaa6b1e1352e6ab5f944a769f7dd8068927b283b41ef~
+Password     9c3a88f26d3623fcf0a4aa881518170c70f5e1d62e0d9f9fa7e9b3f07fa299b7~
 Rank         rank~
 Title         title~
 Extraname    extraname~
@@ -39,6 +40,7 @@ Lastname      lastname~
 Homepage     http://www.admin.com/~
 Email        admin@localhost~
 Bio          This is Admin's biography.~
+Bamfin       Admin appears before you with a sound like a terrible fart.~
 WizInvis     101
 Flags        99072
 PKills       0
@@ -421,6 +423,10 @@ Tongue       100 'ogre'
 Tongue       100 'orcish'
 Tongue       100 'pixie'
 Tongue       100 'trollese'
+i3perm       5
+i3flags      256
+IMCPerm      5
+IMCFlags     256
 End
 
 #END
